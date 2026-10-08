@@ -32,3 +32,8 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 1. It easy for you to keep track of collaborative and personal projects.
 2. For collaborative projects, it allows you to assign tasks to different users, making it clear who is responsible for which part of the analysis.
 3. For personal projects, version control allows you to keep track of your work and easily navigate among the many versions of the files you create, whilst also maintaining an online backup.
+
+```{r}
+1 + 1
+```
+
